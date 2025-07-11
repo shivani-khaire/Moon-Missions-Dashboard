@@ -1,0 +1,20 @@
+📝 Dashboard Description
+
+This project titled **"From Earth to Moon: Mission Insights"** presents a detailed data dashboard visualizing the history of lunar exploration. Built using **MySQL** for data storage and **Power BI** for visualization, the dashboard provides interactive insights into lunar missions carried out by various space agencies.
+
+📌 Key Highlights:
+
+* Mission Type Distribution: Shows the number of missions by type — Orbiter, Lander, Flyby, Rover, etc.
+* Leading Space Agencies: Compares top contributors like NASA, ISRO, CNSA, and others by mission count.
+* Mission Trend by Year: Timeline visual showing lunar mission frequency from 1958 to 2025.
+* Lunar Mission Outcomes: A pie chart summarizing outcomes such as Success, Failure, Operational, and En Route.
+* Apollo Mission Table: A detailed table listing Apollo missions with launch dates, operators, and mission results.
+
+🧠 Purpose:
+
+To visualize and analyze the evolution of lunar missions, space agency participation, and mission success rates using real data and interactive visuals.
+
+🛠 Tools Used:
+
+* MySQL: Used to clean, structure, and manage lunar mission data.
+* Power BI: Used to create visuals, interactive charts, and a visually appealing dashboard layout.
