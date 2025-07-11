@@ -10,7 +10,7 @@ This project is a visual data dashboard providing insights into the history of l
 - Detailed table of Apollo missions
 
 ## 📸 Preview
-![Lunar Mission Dashboard](moon_mission/dashboard.png)
+![Lunar Mission Dashboard](Dashboard.png)
 
 ## 📁 Dataset
 Data sourced from public archives, covering missions from 1958 to 2025.
